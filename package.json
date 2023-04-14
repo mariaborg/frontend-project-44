@@ -19,7 +19,8 @@
   "homepage": "https://github.com/mariaborg/frontend-project-44#readme",
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js"
   },
   "dependencies": {
     "brain-even": "^0.1.12",

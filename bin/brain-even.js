@@ -1,6 +1,4 @@
 #!/usr/bin/env node
-import welcomeFn from '../src/cli.js';
-import evenLogic from '../src/evenLogic.js';
+import evenLogic from '../src/games/evenLogic.js';
 
-const name = welcomeFn();
-evenLogic(name);
+evenLogic();
