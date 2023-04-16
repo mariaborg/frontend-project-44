@@ -7,4 +7,4 @@
 
 <a href="https://asciinema.org/connect/dec35c3e-863b-4067-b887-0fa2e8a4355d">Brain calc game</a>
 
-<a href=" https://asciinema.org/connect/dec35c3e-863b-4067-b887-0fa2e8a4355d">Brain gcd game</a>
+<a href="https://asciinema.org/connect/dec35c3e-863b-4067-b887-0fa2e8a4355d">Brain gcd game</a>
